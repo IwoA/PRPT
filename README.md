@@ -1,5 +1,11 @@
 # Programming in R and Python
+aka 
+
+**R and Python for Excel users**
+
 Author: Iwo Augustyński
+
+
 
 ### Course outline
 
@@ -7,9 +13,9 @@ Author: Iwo Augustyński
 
 2. Installing and running R and Python, additional tools and packages and libraries
 
-3. Data loading, basic data structures, classes, and objects, basic data operations
+3. Data loading, basic data structures, classes, and objects, basic data operations  [swirl course](https://github.com/IwoA/swirl_courses)
 
-4. Basic commands and elements of R
+4. Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
 
 5. Basic commands and elements of Python
 

@@ -9,7 +9,7 @@ Author: Iwo Augustyński
 
 ### Course outline
 
-1. Introduction to R and Python, review of features and possibilities for use in finance
+1. Introduction to R and Python, review of features and possibilities for [use in finance](https://github.com/wilsonfreitas/awesome-quant)
 
 2. Installing and running R and Python, additional tools and packages and libraries
 

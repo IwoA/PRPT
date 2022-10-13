@@ -25,6 +25,16 @@ Author: Iwo Augustyński
 
 ### Projects
 
-- A solution of a selected financial problem by creating an application or code to automate repetitive actions on real or artificial data sets together with a presentation of the results in an R
+- A solution of a selected financial problem by creating an application or code to automate repetitive actions on real or artificial data sets together with a presentation of the results in an R or Python environment
 
-- A solution of a selected financial problem by creating an application or code to automate repetitive actions on real or artificial data sets together with a presentation of the results in a Python environment
+Structure of a project:
+
+- Reading of data. Extra points for using API
+
+- Data transformation (removing NA's, selecting and filtering dataset, joining datasets, calculation of new variables, etc.)
+
+- Data visualisation
+
+- Description of results and methods used
+
+

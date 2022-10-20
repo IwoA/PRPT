@@ -13,6 +13,13 @@ Author: Iwo Augustyński
 
 2. Installing and running R and Python, additional tools and packages and libraries
 
+ - Install R from https://cran.r-project.org/
+ 
+ - Install RStudio from https://www.rstudio.com/products/rstudio/download/
+ 
+ - Install Python from https://www.anaconda.com/products/distribution
+ 
+
 3. Data loading, basic data structures, classes, and objects, basic data operations  [swirl course](https://github.com/IwoA/swirl_courses)
 
 4. Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
@@ -37,4 +44,6 @@ Structure of a project:
 
 - Description of results and methods used
 
+### Dataset used during the course
 
+[Insider Trades for 1000+ Companies](https://www.kaggle.com/datasets/jacklacey/insider-trades-for-1000-companies) (download dataset from above)

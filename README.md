@@ -24,7 +24,8 @@ Author: Iwo Augustyński
 
 4. Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
 
-5. Basic commands and elements of Python
+5. Basic commands and elements of Python. 
+ - [Primer on Python for R users](https://github.com/IwoA/PRPT/raw/main/Primer.ipynb)
 
 6. Automation of basic statistical and econometric analyses in R and Python, methods of presenting results
 

@@ -1,0 +1,73 @@
+---
+title: "Insider Trading Report"
+output: html_document
+date: "2022-11-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggplot2)
+library(knitr)
+```
+
+Before we start
+
+[![](https://bookdown.org/yihui/bookdown/images/logo.png)](https://bookdown.org/)
+
+[Book about R Markdown](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+Markdown Cheat Sheet
+
+Markdown Reference Guide
+
+## 1st Step - Data structure
+
+**EDA** - Exploratory Data Analysis
+
+Handy packages:
+
+-   [Explore](https://github.com/rolkra/explore)
+
+-   [Esquisse](https://cran.r-project.org/web/packages/esquisse/vignettes/get-started.html)
+
+Load data:
+
+```{r}
+#| echo: false
+dt <- rio::import("Insider_Trading_Cleaned.csv.zip")
+```
+
+There are `r ncol(dt)` columns in the dataset. Column's names are: `r colnames(dt)`
+
+The dataset has `r nrow(dt)` rows.
+
+```{r}
+#| echo: false
+
+knitr::kable(head(dt))
+
+```
+
+-   Is the dataset complete? (Any missing values?)
+
+-   How many companies are included?
+
+-   What is the time span?
+
+-   How many insiders are included?
+
+-   What type of transactions are considered?
+
+-   Types of columns
+
+-   What else?
+
+## 2nd Step - Research/Modeling
+
+### Insider trade value vs date traded open and close
+
+Since we have so many traders who should we include in our analysis? (What type of graph should be used? Maybe [raincloud plots](https://www.youtube.com/watch?v=nz2gHnaqX2w)?)
+
+## 3rd Step - Conclusions

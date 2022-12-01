@@ -26,6 +26,7 @@ Author: Iwo Augustyński
 
 5. Basic commands and elements of Python. 
  - [Primer on Python for R users](https://github.com/IwoA/PRPT/raw/main/Primer.ipynb)
+ - [Basic commands and operations on lists](https://github.com/IwoA/PRPT/raw/main/Introduction_lists.ipynb)
 
 6. Automation of basic statistical and econometric analyses in R and Python, methods of presenting results
 

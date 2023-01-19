@@ -29,6 +29,7 @@ Author: Iwo Augustyński
  - [Basic commands and operations on lists](https://github.com/IwoA/PRPT/raw/main/Introduction_lists.ipynb)
  - [Introduction to numpy](https://github.com/IwoA/PRPT/raw/main/numpy_introduction.ipynb) with [Assignment](https://github.com/IwoA/PRPT/raw/main/Numpy_assignment.ipynb)
  - Pandas: [Introduction](https://github.com/IwoA/PRPT/raw/main/Pandas_introduction.ipynb), [Part 1](https://github.com/IwoA/PRPT/raw/main/Pandas_data_wrangling.ipynb), [Part 2](https://github.com/IwoA/PRPT/raw/main/Hierarchical_indexing.ipynb), [Part 3](https://github.com/IwoA/PRPT/raw/main/Data_aggregation.ipynb)
+ - [plotting in pandas](https://github.com/IwoA/PRPT/raw/main/Plotting.ipynb)
 
 6. Automation of basic statistical and econometric analyses in R and Python, methods of presenting results
 

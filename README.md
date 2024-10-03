@@ -9,31 +9,56 @@ Author: Iwo Augustyński
 
 ### Course outline
 
-1. Introduction to R and Python, review of features and possibilities for [use in finance](https://github.com/wilsonfreitas/awesome-quant)
-
-2. Installing and running R and Python, additional tools and packages and libraries
+#### R
+1. Introduction to R and Python, review of features and possibilities for [use in finance](https://github.com/wilsonfreitas/awesome-quant).
+ Installing and running R, additional tools and packages and libraries
 
  - Install R from https://cran.r-project.org/
  
  - Install RStudio from https://www.rstudio.com/products/rstudio/download/
  
+ - Working with RStudio and code (projects, literate programming)
+ 
+ - Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
+
+2. Regression Models [swirl course](https://github.com/IwoA/swirl_courses)
+
+3. Getting and Cleaning Data [swirl course](https://github.com/IwoA/swirl_courses)
+
+4. Introduction to R Graphics [swirl course](https://github.com/IwoA/swirl_courses)
+
+5. Working with Excel Files [like this one](https://static.nbp.pl/dane/monetarno-finansowa/podaz_bilansowa_en.xlsx)
+
+6. Working with text
+
+7. R Graphics
+
+8. EDA/Reporting in R
+
+#### Python
+
+1. Installing and running Python, additional tools and packages and libraries
+
  - Install Python from https://www.anaconda.com/products/distribution
  
-
-3. Data loading, basic data structures, classes, and objects, basic data operations  [swirl course](https://github.com/IwoA/swirl_courses)
-
-4. Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
-
-5. Basic commands and elements of Python. 
+ - Install Jupyter Notebook and JupyterLab
  - [Primer on Python for R users](https://github.com/IwoA/PRPT/raw/main/Primer.ipynb)
- - [Basic commands and operations on lists](https://github.com/IwoA/PRPT/raw/main/Introduction_lists.ipynb)
- - [Introduction to numpy](https://github.com/IwoA/PRPT/raw/main/numpy_introduction.ipynb) with [Assignment](https://github.com/IwoA/PRPT/raw/main/Numpy_assignment.ipynb)
- - Pandas: [Introduction](https://github.com/IwoA/PRPT/raw/main/Pandas_introduction.ipynb), [Part 1](https://github.com/IwoA/PRPT/raw/main/Pandas_data_wrangling.ipynb), [Part 2](https://github.com/IwoA/PRPT/raw/main/Hierarchical_indexing.ipynb), [Part 3](https://github.com/IwoA/PRPT/raw/main/Data_aggregation.ipynb)
- - [plotting in pandas](https://github.com/IwoA/PRPT/raw/main/Plotting.ipynb)
+ 
+2. [Basic commands and operations on lists](https://github.com/IwoA/PRPT/raw/main/Introduction_lists.ipynb)
 
-6. Automation of basic statistical and econometric analyses in R and Python, methods of presenting results
+3. [Introduction to numpy](https://github.com/IwoA/PRPT/raw/main/numpy_introduction.ipynb) with [Assignment](https://github.com/IwoA/PRPT/raw/main/Numpy_assignment.ipynb)
 
-7. Using R and Python in solving basic financial problems, building simple applications
+4. Pandas: [Introduction](https://github.com/IwoA/PRPT/raw/main/Pandas_introduction.ipynb), [Part 1](https://github.com/IwoA/PRPT/raw/main/Pandas_data_wrangling.ipynb), [Part 2](https://github.com/IwoA/PRPT/raw/main/Hierarchical_indexing.ipynb), [Part 3](https://github.com/IwoA/PRPT/raw/main/Data_aggregation.ipynb)
+
+5. [Plotting in pandas](https://github.com/IwoA/PRPT/raw/main/Plotting.ipynb)
+
+6. Working with Excel Files
+
+7. EDA/Reporting in Python
+
+
+#### Summary of the course
+
 
 ### Projects
 
@@ -49,6 +74,3 @@ Structure of a project:
 
 - Description of results and methods used
 
-### Dataset used during the course
-
-[Insider Trades for 1000+ Companies](https://www.kaggle.com/datasets/jacklacey/insider-trades-for-1000-companies) (download dataset from above)

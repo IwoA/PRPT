@@ -21,19 +21,17 @@ Author: Iwo Augustyński
  
  - Basic commands and elements of R [swirl course](https://github.com/IwoA/swirl_courses)
 
-2. Regression Models [swirl course](https://github.com/IwoA/swirl_courses)
+2. Getting and Cleaning Data [swirl course](https://github.com/IwoA/swirl_courses)
 
-3. Getting and Cleaning Data [swirl course](https://github.com/IwoA/swirl_courses)
+3. Introduction to R Graphics [swirl course](https://github.com/IwoA/swirl_courses)
 
-4. Introduction to R Graphics [swirl course](https://github.com/IwoA/swirl_courses)
+4. Working with Excel Files [like this one](https://static.nbp.pl/dane/monetarno-finansowa/podaz_bilansowa_en.xlsx)
 
-5. Working with Excel Files [like this one](https://static.nbp.pl/dane/monetarno-finansowa/podaz_bilansowa_en.xlsx)
+5. Working with text
 
-6. Working with text
+6. R Graphics
 
-7. R Graphics
-
-8. EDA/Reporting in R
+7. EDA/Reporting in R
 
 #### Python
 

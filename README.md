@@ -26,6 +26,7 @@ Author: Iwo Augustyński
 3. Introduction to R Graphics [swirl course](https://github.com/IwoA/swirl_courses)
 
 4. Working with Excel Files [like this one](https://static.nbp.pl/dane/monetarno-finansowa/podaz_bilansowa_en.xlsx)
+  or [this one](https://uewrc-my.sharepoint.com/:x:/g/personal/iwo_augustynski_ue_wroc_pl/EX562CxI79tPjZSJeFC0MPUBXJMoqZbryDLSdB-sNrPqMQ?e=ll4dqg)
 
 5. Working with text
 

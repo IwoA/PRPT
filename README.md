@@ -51,7 +51,7 @@ Author: Iwo Augustyński
 
 5. [Plotting in pandas](https://github.com/IwoA/PRPT/raw/main/Plotting.ipynb)
 
-6. Working with Excel Files
+6. [Working with Excel Files](https://github.com/IwoA/PRPT/raw/main/Pandas_excel-assignment.ipynb)
 
 7. EDA/Reporting in Python
 
